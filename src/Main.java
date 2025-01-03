@@ -7,6 +7,12 @@ public class Main {
 
         System.out.println("Değişiklik 2");//ws
         System.out.println("Değişiklik 2");//ws
+
+//kodlar .yeni özellikler
+
+
+
+
     }
 
 }
